@@ -19,6 +19,6 @@ I held a `research assistant` position at Bentley Research Network department, w
 - Data Cleaning, Data Visualization, Data Modeling, Data Mining, Machine Learning, Deep Learning, Natural Language Processing 
 
 ## Projects
-[Triage analysis for Pine Street Inn](https://pages-themes.github.io/minimal/).
-[Intel image classifacation](https://pages-themes.github.io/minimal/).
-[Uncovering Main Topics in AIRBNB Reviews](https://pages-themes.github.io/minimal/).
+*   [Triage analysis for Pine Street Inn](https://pages-themes.github.io/minimal/).
+*   [Intel image classifacation](https://pages-themes.github.io/minimal/).
+*   [Uncovering Main Topics in AIRBNB Reviews](https://pages-themes.github.io/minimal/).
