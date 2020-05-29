@@ -8,12 +8,12 @@ I held a **research assistant** position at Bentley Research Network department,
 
 <dl>
 <dt>Technical skills:</dt>
-<dd>Proficient in Python (Pandas, Scikit-learn, TensorFlow, Keras, Torch), Excel (VLOOKUP, Pivot Table), SQL, R, SPSS, Java, Tableau;  </dd>
-  <dd>Familiar with SAS, Scala, Git, Shell, HTML, CSS, JavaScript; </dd>
+<dd>**Proficient in** Python (Pandas, Scikit-learn, TensorFlow, Keras, Torch), Excel (VLOOKUP, Pivot Table), SQL, R, SPSS, Java, Tableau;  </dd>
+  <dd>**Familiar with** SAS, Scala, Git, Shell, HTML, CSS, JavaScript; </dd>
 <dt>Data Modeling:</dt>
-<dd>Supervised Learning (Logistic Regression, Decision Tree, Neural Networks, Random Forests, Bagging, Boosting);</dd>
-  <dd>Unsupervised Learning (Cluster Analysis, Principal Component Analysis);</dd>
-  <dd>Time Series (ARIMA, ARCH/GARCH, Nonlinear Models);   </dd>
+<dd>**Supervised Learning** (Logistic Regression, Decision Tree, Neural Networks, Random Forests, Bagging, Boosting);</dd>
+  <dd>**Unsupervised Learning** (Cluster Analysis, Principal Component Analysis);</dd>
+  <dd>**Time Series** (ARIMA, ARCH/GARCH, Nonlinear Models);   </dd>
 <dt>Data Analytics: </dt>
 <dd>Data Cleaning, Data Visualization, Data Modeling, Data Mining, Machine Learning, Deep Learning, Natural Language Processing</dd> 
 </dl> 
