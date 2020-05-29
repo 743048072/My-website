@@ -9,9 +9,16 @@ I held a `research assistant` position at Bentley Research Network department, w
 **Technical skills:** 
 - Proficient in Python (Pandas, Scikit-learn, TensorFlow, Keras, Torch), Excel (VLOOKUP, Pivot Table), SQL, R, SPSS, Java, Tableau;  
 - Familiar with  SAS, Scala, Git, Shell, HTML, CSS, JavaScript; 
+
 **Data Modeling:** 
 - Supervised Learning (Logistic Regression, Decision Tree, Neural Networks, Random Forests, Bagging, Boosting); 
 - Unsupervised Learning (Cluster Analysis, Principal Component Analysis); 
 - Time Series (ARIMA, ARCH/GARCH, Nonlinear Models);   
+
 **Data Analytics:** 
 - Data Cleaning, Data Visualization, Data Modeling, Data Mining, Machine Learning, Deep Learning, Natural Language Processing 
+
+## Projects
+[Triage analysis for Pine Street Inn](https://pages-themes.github.io/minimal/).
+[Intel image classifacation](https://pages-themes.github.io/minimal/).
+[Uncovering Main Topics in AIRBNB Reviews](https://pages-themes.github.io/minimal/).
