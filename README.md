@@ -6,6 +6,17 @@ I held a research assistant position at Bentley Research Network department, wor
 
 ## Skills
 
+<dl>
+<dt>Technical skills:</dt>
+<dd>Proficient in Python (Pandas, Scikit-learn, TensorFlow, Keras, Torch), Excel (VLOOKUP, Pivot Table), SQL, R, SPSS, Java, Tableau;  </dd>
+  <dd>Familiar with SAS, Scala, Git, Shell, HTML, CSS, JavaScript; </dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 ### Technical skills:  
 Proficient in Python (Pandas, Scikit-learn, TensorFlow, Keras, Torch), Excel (VLOOKUP, Pivot Table), SQL, R, SPSS, Java, Tableau;  
 Familiar with SAS, Scala, Git, Shell, HTML, CSS, JavaScript; 
