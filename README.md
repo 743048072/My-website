@@ -20,5 +20,5 @@ I held a `research assistant` position at Bentley Research Network department, w
 
 ## Projects
 *   [Triage analysis for Pine Street Inn](https://pages-themes.github.io/minimal/).
-*   [Intel image classifacation](https://pages-themes.github.io/minimal/).
+*   [Intel image classifacation with CNN](https://743048072.github.io/Wendy-Zhai/Intel_image_classifacation).
 *   [Uncovering Main Topics in AIRBNB Reviews](https://pages-themes.github.io/minimal/).
