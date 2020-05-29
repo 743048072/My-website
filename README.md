@@ -1,6 +1,6 @@
 # About me 
 
-I just graduated with a _master of science degree_ majoring in _Business Analytics_ at Bentley University. My courses have helped me develop my _statistical, model building, and programming_ skills. Through many simulated projects, I was able to manipulate data by performing quantitative analysis using statistical software such as _Python, R and SQL_ and visualize my results using _Tableau_. 
+I just graduated with a `master of science degree` majoring in `Business Analytics` at Bentley University. My courses have helped me develop my _statistical, model building, and programming_ skills. Through many simulated projects, I was able to manipulate data by performing quantitative analysis using statistical software such as _Python, R and SQL_ and visualize my results using _Tableau_. 
 
 I held a _research assistant_ position at Bentley Research Network department, working on _data analytics_ for the Non-profit organization, Pine Street Inn, where I processed data and offered strategic support for solutions to different types of _homelessness_ 
 
