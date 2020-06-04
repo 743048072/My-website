@@ -5,11 +5,11 @@
 
 ![Picture1](assets/Intel/Picture1.png)
 
-![Picture%208](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture%208.png) 
+![Picture%208](assets/Intel/Picture%208.png) 
 
 
 
-![Picture5](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture5.png)
+![Picture5](assets/Intel/Picture5.png)
 ![Picture6](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture6.png)
 
 ![Picture%208](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture%208.png)
