@@ -7,28 +7,54 @@ We randomly select 10 images from the training dataset and print them and their 
 
 ![Picture1](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture1.png)
 
+
 ## Data observation and issue
 
 By looking at the images in our original dataset, we found that in some Building and Street images, the photo has included both building and street but some of them were classified into the Building and some of them were classified into the Street. The similar situation also happened on Glacier and Mountain. For instance, the following four pictures below (from left to right, picture 1,2,3,4) are representing Building, Street, Glacier, Mountain:
 
-![Picture%208](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture%208.png) 
+![Picture8](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture8.png) 
 
 
-
-![Picture5](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture5.png)
-![Picture6](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture6.png)
-
-![Picture%208](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture%208.png)
-![Picture%209](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture%209.png)
+## Methods
+In this project we will use Convolutional Neural Network (CNN) and Transfer Learning with the VGG-16 model to make classification predictions. 
 
 ## Building CNN from scratch using Keras
 
-![Picture%209](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture%209.png)
+A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which can take in an input image, assign importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other.  
+
+The input image dimension in our dataset is 50*150*3 and we can imagine how intensive things would be once the image reaches the dimension. The role of the ConvNet is to reduce the images into a form which is easier to process, without losing features which are critical for getting a good prediction. This is important when we are to design an architecture which is not only good at learning features but also is scalable to massive datasets.
+
+Based on the classic CNN architecture, in our model we design the CNN architecture is very similar. The model summary is as below.
+
+![Picture9](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture9.png)
+
+The element involved in carrying out the convolution operation in the first part of a Convolutional Layer is called the Kernel/Filter, K. For the first two ConvLayers, we have selected K as a 3x3x1 matrix and there are 32 kernels and we determine add one more ConvLayer after the second with 50 (3*3*1) kernels. The stride lengths are all 1.
+
+The first layer is responsible for capturing the low-level features such as edges, color, gradient orientation and so on. With added layers, the architecture adapts to the high-level features as well, giving us a network which has the wholesome understanding of images in the dataset.
+
+After convolutional layers, we add a max pooling layer to return the maximum value from the portion of the image covered by the Kernel. The pooling layer is to decrease the computational power required to process the data through dimensionality reduction. Furthermore, it is useful for extracting dominant features, thus maintaining the process of effectively training of the model.
+
+The max pooling layer and the convolutional layer, together form the i-th layer of a CNN. Depending on the complexities in the images, we use 2 such layers for capturing low-level details even further, but at the cost of more computational power. 
+
+Finally, we use fully connected layers to learn non-linear combinations of the high-level features as represented by the output of the convolutional layer, which is a cheap way. We have converted our data into a suitable form for our multi-level perceptron and flattened the image into a column vector. The flattened output is fed to a feed-forward neural network and backpropagation applied to every iteration of training.
+
+The compilation is the final step in creating a model. In our model, loss function is used to find error or deviation in the learning process. We use “sparse_categorical_crossentropy” for our loss function and “Adam” function with learning rate 0.0001 for optimizer.
+
+In the training process, we tried epoach 5 and 10 for training to save our time for seeing the result. However, the accuracy with such epoch is pretty low, with around 50%. So we plot the relationship between accuracy and epoch to what epoch shall we
+choose. As a result, we found that after 14 epochs, the accuracy reaches almost the highest level and goes up very slightly. 
 
 ![Picture3](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture3.png)
 
 ![Picture4](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture4.png)
 
+So we decided to use epoch 14, to ensure the highest accuracy and lowest loss. The training and testing accuracies are as follows:
+
+Training accuracy:
+14034/14034 [==============================] -  114s 10ms/sample - loss: 0.4410 - accuracy: 0.9087
+Testing accuracy:
+3000/3000 [==============================] -  87s 10ms/sample - loss: 0.5784 - accuracy: 0.8030
+ 
+ 
 ## Transfer learning with VGG-16 using Keras
 
 ![Picture5](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture5.png)
