@@ -12,7 +12,7 @@ We randomly select 10 images from the training dataset and print them and their 
 
 By looking at the images in our original dataset, we found that in some Building and Street images, the photo has included both building and street but some of them were classified into the Building and some of them were classified into the Street. The similar situation also happened on Glacier and Mountain. For instance, the following four pictures below (from left to right, picture 1,2,3,4) are representing Building, Street, Glacier, Mountain:
 
-![Picture8](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture8.png) 
+![picture8](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/picture8.png) 
 
 
 ## Methods
@@ -25,8 +25,8 @@ A Convolutional Neural Network (ConvNet/CNN) is a Deep Learning algorithm which 
 ### Model structure
 
 Based on the classic CNN architecture, the CNN architecture we build is very similar. The model summary is as below.
-
-![Picture9](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture9.png)
+ 
+![picture9](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/picture9.png)
 
 The input image dimension in our dataset is 50*150*3. The element involved in carrying out the convolution operation in the first part of a Convolutional Layer is called the Kernel/Filter, K. For the first two ConvLayers, we have selected K as a 3x3x1 matrix and there are 32 kernels and we determine add one more ConvLayer after the second with 50 (3*3*1) kernels. The stride lengths are all 1.
 
