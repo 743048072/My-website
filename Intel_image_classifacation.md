@@ -3,7 +3,7 @@
 **Intel Image (from Kaggle):** around 25k colorful images of size 150x150.  
 **Six classes:** Buildings, Forest, Glacier, Mountain, Sea, and Street.
 
-![Picture1](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture1.png)
+![Picture1](assets/Intel/Picture1.png)
 
 ![Picture%208](https://github.com/743048072/Wendy-Zhai/blob/master/assets/Intel/Picture%208.png) 
 
