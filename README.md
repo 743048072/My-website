@@ -19,6 +19,8 @@ I held a `research assistant` position at Bentley Research Network department, w
 - Data Cleaning, Data Visualization, Data Modeling, Data Mining, Machine Learning, Deep Learning, Natural Language Processing 
 
 ## Projects
+
+Please check my recent projects below and click titles to learn more.
 *   [Triage analysis for Pine Street Inn](https://github.com/743048072/Wendy-Zhai/blob/master/Triage%20report.pdf).
 *   [Intel image classifacation with CNN](https://github.com/743048072/Wendy-Zhai/blob/master/Intel_image_classifacation.md).
 *   [Uncovering Main Topics in AIRBNB Reviews](https://github.com/743048072/Wendy-Zhai/blob/master/Uncovering%20Main%20Topics%20in%20AIRBNB%20Reviews%20.pdf).
