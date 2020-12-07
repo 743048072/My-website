@@ -1,0 +1,128 @@
+Company,Race (White/POC),Gender (Female/Male),Count
+AT&T,POC,Female,1
+AT&T,POC,Male,3
+AT&T,White,Female,3
+AT&T,White,Male,15
+Adidas,POC,Female,1
+Adidas,POC,Male,1
+Adidas,White,Female,4
+Adidas,White,Male,15
+Alphabet,POC,Female,1
+Alphabet,POC,Male,3
+Alphabet,White,Female,4
+Alphabet,White,Male,4
+Amazon,POC,Female,2
+Amazon,White,Female,3
+Amazon,White,Male,10
+Apple,POC,Female,3
+Apple,POC,Male,3
+Apple,White,Female,3
+Apple,White,Male,13
+CNN ,POC,Female,1
+CNN ,POC,Male,1
+CNN ,White,Female,5
+CNN ,White,Male,8
+Condé Nast,POC,Female,1
+Condé Nast,White,Female,4
+Condé Nast,White,Male,5
+Disney,POC,Female,3
+Disney,POC,Male,4
+Disney,White,Female,7
+Disney,White,Male,14
+Doordash,POC,Male,8
+Doordash,White,Female,3
+Doordash,White,Male,7
+Facebook,POC,Female,2
+Facebook,White,Female,6
+Facebook,White,Male,17
+Goldman Sachs,POC,Female,2
+Goldman Sachs,POC,Male,4
+Goldman Sachs,White,Female,9
+Goldman Sachs,White,Male,30
+Google,POC,Female,1
+Google,POC,Male,4
+Google,White,Female,6
+Google,White,Male,6
+Hulu,POC,Female,3
+Hulu,POC,Male,2
+Hulu,White,Female,1
+Hulu,White,Male,3
+Indeed,POC,Male,5
+Indeed,White,Female,1
+Indeed,White,Male,8
+LinkedIn,POC,Female,1
+LinkedIn,POC,Male,1
+LinkedIn,White,Female,1
+LinkedIn,White,Male,6
+Lowe's,POC,Female,4
+Lowe's,POC,Male,6
+Lowe's,White,Female,6
+Lowe's,White,Male,23
+Lyft,POC,Female,2
+Lyft,POC,Male,2
+Lyft,White,Female,2
+Lyft,White,Male,5
+McDonald's,POC,Female,2
+McDonald's,POC,Male,3
+McDonald's,White,Female,8
+McDonald's,White,Male,22
+Microsoft,POC,Female,1
+Microsoft,POC,Male,4
+Microsoft,White,Female,6
+Microsoft,White,Male,16
+NPR,POC,Female,3
+NPR,POC,Male,5
+NPR,White,Female,16
+NPR,White,Male,23
+Netflix,POC,Female,2
+Netflix,White,Female,5
+Netflix,White,Male,11
+Nike,POC,Female,1
+Nike,POC,Male,3
+Nike,White,Female,8
+Nike,White,Male,19
+Pandora,POC,Female,1
+Pandora,White,Female,2
+Pandora,White,Male,17
+Sandwich,White,Female,1
+Sandwich,White,Male,2
+Snapchat,POC,Male,3
+Snapchat,White,Female,8
+Snapchat,White,Male,11
+Soul Pancake,POC,Female,1
+Soul Pancake,POC,Male,1
+Soul Pancake,White,Female,3
+Soul Pancake,White,Male,2
+Starbucks,POC,Female,7
+Starbucks,POC,Male,6
+Starbucks,White,Female,19
+Starbucks,White,Male,23
+T-Mobile US,POC,Male,5
+T-Mobile US,White,Female,4
+T-Mobile US,White,Male,17
+The New York Times,POC,Male,3
+The New York Times,White,Female,6
+The New York Times,White,Male,8
+Twitter,POC,Female,3
+Twitter,POC,Male,2
+Twitter,White,Female,4
+Twitter,White,Male,13
+Uber,POC,Female,4
+Uber,POC,Male,5
+Uber,White,Female,2
+Uber,White,Male,8
+Wayfarer,POC,Female,1
+Wayfarer,POC,Male,2
+Wayfarer,White,Female,1
+Wayfarer,White,Male,2
+Wendy's,POC,Male,1
+Wendy's,White,Female,5
+Wendy's,White,Male,12
+YouTube,POC,Female,1
+YouTube,POC,Male,2
+YouTube,White,Female,2
+YouTube,White,Male,1
+Zoom Video Communications,POC,Female,1
+Zoom Video Communications,POC,Male,4
+Zoom Video Communications,White,Female,4
+Zoom Video Communications,White,Male,7
