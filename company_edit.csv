@@ -19,10 +19,10 @@ Apple,POC,Female,3
 Apple,POC,Male,3
 Apple,White,Female,3
 Apple,White,Male,13
-CNN ,POC,Female,1
-CNN ,POC,Male,1
-CNN ,White,Female,5
-CNN ,White,Male,8
+CNN,POC,Female,1
+CNN,POC,Male,1
+CNN,White,Female,5
+CNN,White,Male,8
 Condé Nast,POC,Female,1
 Condé Nast,POC,Male,0
 Condé Nast,White,Female,4
